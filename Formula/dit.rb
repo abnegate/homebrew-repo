@@ -2,7 +2,7 @@ class Dit < Formula
   desc "Developer Integrated Toolkit CLI"
   homepage "https://github.com/abnegate/dit"
   url "https://github.com/abnegate/dit/archive/refs/tags/0.3.0.tar.gz"
-  sha256 "bb4c1e41c6e8141c65364c22a71322dd9b0da624d6ed999fda33688b7543ec23"
+  sha256 "6cb05bb5ede3d21dd12a386834e1c4f322238574c7bc8d946cf10d45d402b4b3"
   license "MIT"
 
   depends_on "docker" => :optional
